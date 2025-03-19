@@ -9,7 +9,7 @@ function makeTitleOfApp()
     titleOfApplication.style.fontSize = '17px';
     titleOfApplication.style.color = 'rgb(100, 100, 100)';
     titleOfApplication.style.fontWeight = 'bold';
-    titleOfApplication.href = 'https://github.com/ChristopherAndrewTopalian'
+    titleOfApplication.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Frames_Per_Second'
     titleOfApplication.target = '_blank';
     titleOfApplication.textContent = ' CATopalian JavaScript Frames Per Second';
     ba(titleOfApplication);
