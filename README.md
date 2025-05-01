@@ -1,9 +1,9 @@
 # CATopalian JavaScript Frames Per Second
 A JavaScript application that changes the FPS in real time using a slider and input to set the value.  
 
-USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Frames_Per_Second/CATopalian_JavaScript_Frames_Per_Second.html
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Frames_Per_Second/CATopalian_JavaScript_Frames_Per_Second.html  
 
-If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)
+![screenshot_001](src/media/textures/screenshots/001.JPG)  
 
 ---
 
