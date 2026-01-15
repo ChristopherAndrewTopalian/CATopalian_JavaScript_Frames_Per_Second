@@ -2,11 +2,17 @@
 
 function makeInterface()
 {
+    ba(makeTitleOfApp());
+
+    //-//
+
     // mainDiv
     let mainDiv = ce('div');
     mainDiv.id = 'mainDiv';
     mainDiv.className = 'mainDiv';
     mainDiv.style.opacity = 0.0;
+    mainDiv.style.marginTop = '5px';
+    mainDiv.style.width = '410px';
     setTimeout(function()
     {
         mainDiv.style.opacity = 1.0; 
@@ -101,7 +107,7 @@ function makeInterface()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting

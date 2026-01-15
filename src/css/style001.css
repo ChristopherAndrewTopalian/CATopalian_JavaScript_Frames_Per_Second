@@ -10,6 +10,7 @@
 
 body
 {
+    margin: 2px 5px;
     background-color: rgb(40, 40, 40);
     font-family: Arial;
     font-size: 20px;
@@ -30,9 +31,6 @@ a
 
 .mainDiv
 {
-    position: fixed;
-    left: 10px;
-    top: 5px;
     margin: 5px;
     border: solid 1px;
     border-radius: 8px;
@@ -122,4 +120,12 @@ input[type = "range"]::-moz-range-thumb
     border-radius: 50%;
     cursor: pointer;
 }
+
+/* ---- */
+
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+/* https://sites.google.com/view/CollegeOfScripting */
 
